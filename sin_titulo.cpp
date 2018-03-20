@@ -2,10 +2,11 @@
 using namespace std;
 
 int main(int argc, char *argv[]) {
-	count <<"hello, world"<<endl;
-	count <<"hola mundo "<<endl;
-	count <<"ya commite"<<endl;
-	count <<"wohhhhhhhhhhh!!!!!!"<<endl;
+	int x=6;
+	int y=5;
+	int z=x+y;
+	cout<<"hello friends"<<endl;
+	cout <<z<<endl;
 	return 0;
 }
 
